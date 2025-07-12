@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AppPrototype</string>
+    <string name="home"><b>Home</b></string>
+    <string name="routes"><u>Deine Routen</u></string>
+    <string name="routesB"><b>Routen</b></string>
+    <string name="routesC"><u>Fortbewegungsmittel</u></string>
+    <string name="events"><u>Deine Events</u></string>
+    <string name="eventsB"><b>Events</b></string>
+    <string name="sights"><u>Deine Sehenswürdigkeiten</u></string>
+    <string name="sightsB"><b>Sehenswürdigkeiten</b></string>
+    <string name="selection"><u>Auswahl</u></string>
+    <string name="suggestions"><u>Deine Vorschläge</u></string>
+    <string name="suggestionsB"><u>Vorschläge</u></string>
+    <string name="karte"><u>Karte</u></string>
+    <string name="settings">Einstellungen</string>
+    <string name="musikfeste">Musikfeste</string>
+    <string name="theater">Theater/Performance</string>
+    <string name="sport">Sportveranstaltungen</string>
+    <string name="kunst">Kunst</string>
+    <string name="weiterbildung">Weiterbildung</string>
+    <string name="kultur">Kultur</string>
+    <string name="natur">Natur</string>
+    <string name="architektur">Architektur</string>
+    <string name="unterhaltung">Unterhaltung</string>
+    <string name="anderes">Anderes</string>
+    <string name="weiter">Weiter</string>
+    <string name="addSight">Add Sight</string>
+    <string name="wegpunkt">Wegpunkt</string>
+    <string name="auto">Auto</string>
+    <string name="fahrrad">Fahrrad</string>
+    <string name="oepnv">ÖPNV</string>
+    <string name="zu_fuss">Zu Fuß</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

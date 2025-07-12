@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/map_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/karte" />
+    <item
+        android:id="@+id/events"
+        android:icon="@drawable/event_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/eventsB" />
+    <item
+        android:id="@+id/sights"
+        android:icon="@drawable/sight_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/sightsB" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/settings_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/settings" />
+</menu>
